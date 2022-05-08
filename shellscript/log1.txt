@@ -1,0 +1,6 @@
+total 12K
+drwxrwxr-x 2 abiel abiel 4,0K mai  8 19:32 .
+drwxrwxr-x 5 abiel abiel 4,0K mai  8 19:14 ..
+-rw-rw-r-- 1 abiel abiel    0 mai  8 19:32 log1.txt
+-rw-rw-r-- 1 abiel abiel    0 mai  8 19:32 log2.txt
+-rwxrwxr-x 1 abiel abiel  456 mai  8 19:32 script01.sh
