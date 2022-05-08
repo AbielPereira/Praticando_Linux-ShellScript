@@ -1,0 +1,14 @@
+#Parte 1
+
+mkdir cria um diretório (Pasta);
+rmdir - deleta um diretório;
+rm - remove arquivos e diretórios, com o parâmetro -fr remove todo conteúdo e o diretório infinitamente;
+touch - cria arquivos em branco;
+locate - localiza arquivos dentro do sistema de arquivos;
+find - como o lacate, porém dentro de diretórios;
+grep - procura dentro de um texto o padrão especificado;
+sudo - (SuperUser Do) permite realizar tarefas como superusurário Linux;
+df - Informa a quantidade de espaço utilizado em disco, apresentando em unidades KBs, MBs e etc...;
+head - Exibe as primeiras linhas do conteúdo de um arquivo, com um parâmetro como (head n-5) lista as 5 primeiras linhas de um arquivo.
+
+
