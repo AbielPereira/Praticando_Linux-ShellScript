@@ -1,6 +1,6 @@
 # Praticando_Linux-ShellScript
 
-Repositório Criado para consolidar definições de comandos Linux e algumas práticas em Shell Script.
+Repositório criado para consolidar definições de comandos Linux e algumas práticas em Shell Script.
 
 Tecnologias Utilizadas:
 
