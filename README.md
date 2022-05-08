@@ -4,5 +4,5 @@ Repositório Criado para consolidar definições de comandos Linux e algumas pr�
 
 Tecnologias Utilizadas:
 
-Oracle VM VirtualBox;
+Oracle VM VirtualBox
 Ubunto 20.04
